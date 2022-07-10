@@ -1,1 +1,1 @@
-# Minimalis-landing-page
+# Minimalist-landing-page
